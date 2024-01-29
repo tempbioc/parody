@@ -2,6 +2,7 @@ name: bbs_linux
 'on':
   push:
     branches:
+    - main
     - devel
 jobs:
   rworkflows:
