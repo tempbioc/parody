@@ -20,4 +20,4 @@ posts.](http://www.bioconductor.org/shields/posts/parody.svg)](https://support.b
 issues](https://img.shields.io/github/issues/vjcitn/parody)](https://github.com/vjcitn/parody/issues)
 <!-- badges: end -->
 
-parametric outlier dytection tools
+parametric outlier dytection tools, including calibrated multivariate outlier detection
