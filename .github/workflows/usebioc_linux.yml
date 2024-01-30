@@ -89,6 +89,7 @@ jobs:
         with:
           r-version: ${{ matrix.config.r }}
           http-user-agent: ${{ matrix.config.http-user-agent }}
+          extra-repositories: ${{ matrix.config.rspm }}
 
       ## pandoc is already included in the Bioconductor docker images
       - name: Setup pandoc from r-lib
