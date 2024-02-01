@@ -1,0 +1,26 @@
+Format: 1.8
+Date: Thu, 01 Feb 2024 12:08:54 +0000
+Source: r-bioc-parody
+Binary: r-bioc-parody
+Built-For-Profiles: noudeb
+Architecture: amd64
+Version: 1.61.1-1
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Bioc GHA Build <maintainer@bioconductor.org>
+Changed-By: Bioc GHA Build <maintainer@bioconductor.org>
+Description:
+ r-bioc-parody - Parametric And Resistant Outlier DYtection
+Changes:
+ r-bioc-parody (1.61.1-1) UNRELEASED; urgency=medium
+ .
+   * Initial release (closes: #xxxxxx)
+Checksums-Sha1:
+ fbbce55ffcb597be016d8cae643d81fee69b38b3 10985 r-bioc-parody_1.61.1-1_amd64.buildinfo
+ 88be0b95cc8afddf70c275ddfb206d8100cdd366 65994 r-bioc-parody_1.61.1-1_amd64.deb
+Checksums-Sha256:
+ 9b245300de4e6b301f74acff79e19310c1a085718da74d6c78846671447c826c 10985 r-bioc-parody_1.61.1-1_amd64.buildinfo
+ 78797981e4e7cf6b8f7a8c56c8f57d9b9016ab87f479920e3c0f9838163eab3c 65994 r-bioc-parody_1.61.1-1_amd64.deb
+Files:
+ 630080cd12217ccec2987a7080604f6e 10985 gnu-r optional r-bioc-parody_1.61.1-1_amd64.buildinfo
+ 8ca6ecd4aa42104ae51c17808d4c306b 65994 gnu-r optional r-bioc-parody_1.61.1-1_amd64.deb
