@@ -1,5 +1,8 @@
 # parody
 
+this is an experimental repository.  Do not download this software.  Use
+BiocManager or visit bioconductor.org
+
 <!-- badges: start -->
 
 [![Lifecycle:
